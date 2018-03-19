@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop.csproj", "{AC6DC926-F964-C455-A6A4-C3E919304084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop.Editor", "Loop.Editor.csproj", "{F367BBEF-BCF9-19F8-C999-839AD677BAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6DC926-F964-C455-A6A4-C3E919304084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6DC926-F964-C455-A6A4-C3E919304084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6DC926-F964-C455-A6A4-C3E919304084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6DC926-F964-C455-A6A4-C3E919304084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F367BBEF-BCF9-19F8-C999-839AD677BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F367BBEF-BCF9-19F8-C999-839AD677BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F367BBEF-BCF9-19F8-C999-839AD677BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F367BBEF-BCF9-19F8-C999-839AD677BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
